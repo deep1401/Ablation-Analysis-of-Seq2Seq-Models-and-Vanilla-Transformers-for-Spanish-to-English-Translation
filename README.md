@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> It translates text from Spanish to English using various NLP approaches such as Seq2Seq,Teacher Forcing,Attention andTransformers
+> It translates text from Spanish to English using various NLP approaches such as Seq2Seq,Teacher Forcing,Attention and Transformers
 
 ## Install
 
