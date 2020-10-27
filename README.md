@@ -26,7 +26,7 @@ Run all cells sequentially
 
 * Website: https://deep1401.github.io
 * Github: [@deep1401](https://github.com/deep1401)
-* LinkedIn: [@deep-gandhi-abaa01150](https://linkedin.com/in/deep-gandhi-abaa01150)
+* LinkedIn: [@deep1401](https://linkedin.com/in/deep1401)
 
 ## 🤝 Contributing
 
