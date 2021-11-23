@@ -1,7 +1,11 @@
-<h1 align="center">Welcome to Neural Machine Translation 👋</h1>
-<p>
-</p>
+# Please cite if you use any of the results in the experiments conducted above
 
-> It translates text from Spanish to English using various NLP approaches such as Seq2Seq,Teacher Forcing,Attention and Transformers
-
-Code for the paper 'Ablation Analysis of Seq2Seq Models and Vanilla Transformers for Spanish to English Translation' accepted at 'The 3rd International Conference on Advances in Distributed Computing and Machine Learning (ICADCML)-2022'
+```bibtex
+@inproceedings{ablation,
+  title="{Ablation Analysis of Seq2Seq Models and Vanilla Transformers for Spanish to English Translation}",
+  author={{Deep Gandhi} and {Jash Mehta} and {Pranit Bari}},
+  booktitle={Proceedings of the 3rd International Conference on Advances in Distributed Computing and Machine Learning},
+  year="Accepted",
+  publisher={Springer Nature}
+}
+```
