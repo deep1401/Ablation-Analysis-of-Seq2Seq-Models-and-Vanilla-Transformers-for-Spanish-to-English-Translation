@@ -5,7 +5,7 @@
   title="{Ablation Analysis of Seq2Seq Models and Vanilla Transformers for Spanish to English Translation}",
   author={{Deep Gandhi} and {Jash Mehta} and {Pranit Bari}},
   booktitle={Proceedings of the 3rd International Conference on Advances in Distributed Computing and Machine Learning},
-  year="Accepted",
+  year="2022",
   publisher={Springer Nature}
 }
 ```
